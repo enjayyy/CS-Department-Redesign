@@ -14,9 +14,6 @@
 This repository contains the codebase for a 10-page website dedicated to the Computer Science Department. The primary goal of this project is to demonstrate the practical application of my web development skills and showcase a comprehensive understanding of computer science resources. Leveraging the school's existing website as a foundation, I have undertaken the task of redesigning a more contemporary and user-friendly version.
 
 
-Name: OJI NANA AKPAABE-ADESSA
-Index: 11065950
-
 ## Features
 - 10 pages (Home(index), About,Events, Courses, Resources, Staff Profile, Lecture Hall, FAQ'S, Contact, Groups  )
 - Dynamic homepage showcasing available programs and certification.
