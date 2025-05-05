@@ -1,4 +1,4 @@
-# 11065950_DCIT205
+# CS Department Website
 
 ## Table of Contents
 
